@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    let url = "https://newsapi.org/v2/top-headlines?country=jp&apiKey=1ca869dfce6047cdb91561c3855bcef5";
+    let url = "";
     
     $.ajax({
         url: url,
